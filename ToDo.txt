@@ -1,0 +1,7 @@
+2. write a plugin - input getOverlayUrl
+3. create canvas
+4. set ht wd of canvas
+6. draw tiles on overlay canvas
+1. work on osd resize handler
+5. code to update ht wd of the canvas
+7. make overlay freezable on a button click
